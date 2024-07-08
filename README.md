@@ -1,4 +1,3 @@
-# Telecom-Churn-Case-study
 # Telecom Churn Case Study
 
 ## Problem Statement
